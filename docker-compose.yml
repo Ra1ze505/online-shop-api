@@ -1,0 +1,40 @@
+version: '3'
+
+services:
+#  db:
+#    platform: linux/x86_64
+#    image: mysql:5.7
+#    environment:
+#      MYSQL_DATABASE: 'zh-yarn-data'
+#      MYSQL_ROOT_PASSWORD: root
+#      MYSQL_USER: user
+#      MYSQL_PASSWORD: password
+#    restart: always
+#    ports:
+#    - "3306:3306"
+#    volumes:
+#       - ./mysql-dump/.:/docker-entrypoint-initdb.d/.
+  db:
+    image: postgres:10.1-alpine
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: user
+      POSTGRES_DB: zhyarn_data
+    ports:
+    - "5432:5432"
+    volumes:
+      - ./postgres-dump/.:/docker-entrypoint-initdb.d/.
+      - postgres_data:/var/lib/postgresql/data
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/zh_yarn
+    ports:
+      - '8001:8000'
+    depends_on:
+      - db
+
+volumes:
+  postgres_data:

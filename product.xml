@@ -1,0 +1,440 @@
+<yml_catalog date="2021-09-18T12:39:27">
+  <shop>
+    <name>ZhYarn</name>
+    <company>ZhYarn</company>
+    <url>https://zhyarn.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="197">Filatura Di Crosa (Италия)</category>
+      <category id="208">Gazzal (Турция)</category>
+      <category id="224">Scintex (Италия)</category>
+      <category id="217">Filpucci (Италия)</category>
+      <category id="230">Filatura Papi Fabio (Италия)</category>
+      <category id="210">Lanificio dell Olivo(Италия)</category>
+      <category id="214">Gruppo Filpucci (Италия)</category>
+      <category id="226">Malavasi (Италия)</category>
+      <category id="215">Lagopolane (Италия)</category>
+      <category id="202">Nako (Турция)</category>
+      <category id="222">Pool Filati (Италия)</category>
+      <category id="213">Filati Riccio (Италия)</category>
+      <category id="212">Sudwollgroup (Италия)</category>
+      <category id="221">Ilaria (Италия)</category>
+      <category id="200">YarnArt (Турция)</category>
+      <category id="205">Seta (Италия)</category>
+      <category id="188">Lana Gatto (Италия)</category>
+      <category id="218">Filartex (Италия)</category>
+      <category id="231">Arianna (Италия)</category>
+      <category id="201">Himalaya (Турция)</category>
+      <category id="189">Igea (Италия)</category>
+      <category id="204">Marbido (Италия)</category>
+      <category id="228">Drops (Норвегия)</category>
+      <category id="216">Millefili (Италия)</category>
+      <category id="196">Lineapiu (Италия)</category>
+      <category id="209">Cofil (Италия)</category>
+      <category id="187">Zegna Baruffa (Италия)</category>
+      <category id="199">Lanoso (Турция)</category>
+      <category id="227">Pecci Filati (Италия)</category>
+      <category id="229">New Mill (Италия)</category>
+      <category id="190">Biagioli Modesto (Италия)</category>
+      <category id="220">Botto Poala (Италия)</category>
+      <category id="198">Fibranatura (Турция)</category>
+      <category id="193">Tollegno (Италия)</category>
+      <category id="195">DI VE (Италия)</category>
+      <category id="203">Alize (Турция)</category>
+      <category id="206">Zh yarn collection</category>
+      <category id="207">Maccheroni art (Турция)</category>
+      <category id="211">Lanerossi(Италия)</category>
+      <category id="223">Luigi Botto (Италия)</category>
+      <category id="232">Fashion Mill (Италия)</category>
+      <category id="234">Lanecardate(Италия)</category>
+      <category id="251">Италия</category>
+      <category id="260">Lana Grossa(Германия)</category>
+      <category id="269">Texwell</category>
+      <category id="270">Gargantu (Италия)</category>
+      <category id="271">Papi Fabio(Италия)</category>
+      <category id="272">Manifatture Sesia(Италия)</category>
+      <category id="273">Botto Giuseppo(Италия)</category>
+      <category id="274">Filati Buratti (Италия)</category>
+      <category id="276">Sato Seni (Япония)</category>
+      <category id="277">Prisma Richerche (Италия)</category>
+      <category id="279">Filati Be.Mi.Va. (Италия)</category>
+      <category id="280">Industria Italiana Filati (Италия)</category>
+      <category id="282">Toscano (Италия)</category>
+      <category id="261">Marco Belli( Италия)</category>
+      <category id="255">Todd&amp;Duncan( Шотландия)</category>
+      <category id="242">Filosophy (Италия)</category>
+      <category id="263">Linsieme(Италия)</category>
+      <category id="266">Grinasco (Италия)</category>
+      <category id="246">Lykke</category>
+      <category id="283">Luigi Boldrini (Италия)</category>
+      <category id="236">Casagrande(Италия)</category>
+      <category id="249">Casa Del Filato( Италия)</category>
+      <category id="245">Loro Piana (Италия)</category>
+      <category id="253">Filati Rowan (Италия)</category>
+      <category id="262">Hasegawa(Япония)</category>
+      <category id="257">Filato Drago (Италия)</category>
+      <category id="233">Filitaly-lab(Италия)</category>
+      <category id="243">Filati Power(Италия)</category>
+      <category id="258">Miroglio (Италия)</category>
+      <category id="237">Ecafil (Италия)</category>
+      <category id="267">Alpes (Италия)</category>
+      <category id="239">Katia Concept (Испания)</category>
+      <category id="265">Natural Fantasy(Италия)</category>
+      <category id="256">Fil-3(Италия)</category>
+      <category id="241">Cariaggi (Италия)</category>
+      <category id="235">Merino (Италия)</category>
+      <category id="254">Filati Naturali (Италия)</category>
+      <category id="252">Inca Tops(Перу)</category>
+      <category id="284">Servizi e Seta (Италия)</category>
+      <category id="250">Safil (Италия)</category>
+      <category id="268">Lora Festa(Италия)</category>
+      <category id="264">Mister Joe(Италия)</category>
+      <category id="238">Vento d'Italia</category>
+      <category id="248">Biella Yarn(Италия)</category>
+      <category id="259">Gi.Ti.Bi.(Италия)</category>
+      <category id="281">Iafil (Италия)</category>
+      <category id="244">Manifatture Associate Ponte Felcino (Италия)</category>
+      <category id="278">Bottonato (Италия)</category>
+      <category id="247">Etrofil(Турция)</category>
+      <category id="2960" parentId="254">Naturale</category>
+      <category id="2961" parentId="187">Nanchino</category>
+      <category id="2962" parentId="245">Cashmere</category>
+      <category id="2963" parentId="241">Bucle</category>
+      <category id="2964" parentId="255">Cashmere</category>
+      <category id="2965" parentId="216">Cashmere</category>
+      <category id="2966" parentId="229">Cashmere</category>
+      <category id="2967" parentId="241">Aran</category>
+      <category id="2968" parentId="201">Denim</category>
+      <category id="2969" parentId="236">Angora - 80</category>
+      <category id="2970" parentId="217">Piuma</category>
+      <category id="2971" parentId="278">Seta</category>
+      <category id="2972" parentId="265">Baby Camel</category>
+      <category id="2973" parentId="245">Cottone</category>
+      <category id="2974" parentId="244">Cashmere</category>
+      <category id="2975" parentId="249">Angora 70</category>
+      <category id="2976" parentId="190">Angora 80</category>
+      <category id="2977" parentId="187">Cashmere</category>
+      <category id="2978" parentId="190">Cashmere</category>
+      <category id="2979" parentId="267">Azalea</category>
+      <category id="2980" parentId="241">CASHMERE</category>
+      <category id="2981" parentId="187">Supergeelong</category>
+      <category id="2982" parentId="248">Darwin</category>
+      <category id="2983" parentId="248">Victoria</category>
+      <category id="2955" parentId="245">Aria</category>
+      <category id="2925" parentId="187">Qual Malfile</category>
+      <category id="2847" parentId="230">Dorothy</category>
+      <category id="2908" parentId="190">Zermatt</category>
+      <category id="2681" parentId="210">Rebel</category>
+      <category id="2898" parentId="199">Bambumm Class</category>
+      <category id="2916" parentId="255">Serpantine</category>
+      <category id="2933" parentId="241">Jaipur</category>
+      <category id="2896" parentId="199">Breeze</category>
+      <category id="2774" parentId="249">Regina</category>
+      <category id="2910" parentId="245">Coarsehair</category>
+      <category id="2849" parentId="187">Myfil</category>
+      <category id="2676" parentId="198">Bamboo Jazz</category>
+      <category id="2778" parentId="227">Maiwa Yak</category>
+      <category id="2659" parentId="202">Denim</category>
+      <category id="2865" parentId="254">Chubby</category>
+      <category id="2852" parentId="236">Cash 20</category>
+      <category id="2953" parentId="267">Apple</category>
+      <category id="2765" parentId="247">Silk Road</category>
+      <category id="2907" parentId="258">Absolute</category>
+      <category id="2891" parentId="245">Cash Light Fine</category>
+      <category id="2726" parentId="233">Clown</category>
+      <category id="2863" parentId="190">Cash/Seta</category>
+      <category id="2927" parentId="196">Basco Unito</category>
+      <category id="2880" parentId="198">Cotton Royal Waves</category>
+      <category id="2780" parentId="227">Tommy Yak</category>
+      <category id="2732" parentId="236">La Perla</category>
+      <category id="2772" parentId="250">Clipper</category>
+      <category id="2779" parentId="233">Puno</category>
+      <category id="2959" parentId="245">New Tweed Coarsehair</category>
+      <category id="2805" parentId="242">Macrowool</category>
+      <category id="2946" parentId="196">VIP</category>
+      <category id="2860" parentId="262">Enju</category>
+      <category id="2876" parentId="268">Jolly</category>
+      <category id="2749" parentId="242">Warm</category>
+      <category id="2677" parentId="201">DOLPHIN BABY</category>
+      <category id="2766" parentId="247">Rainbow</category>
+      <category id="2902" parentId="187">Softly</category>
+      <category id="2730" parentId="235">Safiella</category>
+      <category id="2815" parentId="246">Спицы Чулочные Lykke</category>
+      <category id="2741" parentId="238">Yak Soft</category>
+      <category id="2842" parentId="214">Fifty</category>
+      <category id="2702" parentId="187">Esquire</category>
+      <category id="2773" parentId="250">Lucca</category>
+      <category id="2862" parentId="190">Nordico</category>
+      <category id="2820" parentId="215">Kidpal</category>
+      <category id="2789" parentId="190">Aliseo</category>
+      <category id="2733" parentId="236">KidSilk</category>
+      <category id="2694" parentId="187">Jenny</category>
+      <category id="2693" parentId="190">Aran</category>
+      <category id="2958" parentId="190">Shanon</category>
+      <category id="2748" parentId="241">Cashmere</category>
+      <category id="2750" parentId="243">Athena</category>
+      <category id="2845" parentId="267">Cuzco</category>
+      <category id="2781" parentId="253">Baby Kid</category>
+      <category id="2899" parentId="199">Papillon</category>
+      <category id="2855" parentId="254">Cash Yak</category>
+      <category id="2905" parentId="267">Tuareg</category>
+      <category id="2658" parentId="199">Natural Merino</category>
+      <category id="2689" parentId="187">Angora 70 (Zegna)</category>
+      <category id="2850" parentId="241">Antilope</category>
+      <category id="2729" parentId="189">Flame</category>
+      <category id="2858" parentId="190">Baby Samarkand</category>
+      <category id="2734" parentId="236">Merino Classic</category>
+      <category id="2817" parentId="214">Primitivo</category>
+      <category id="2900" parentId="199">Papillon 100</category>
+      <category id="2856" parentId="254">Baby Tweed</category>
+      <category id="2811" parentId="188">Sublime</category>
+      <category id="2890" parentId="217">Kiddest</category>
+      <category id="2813" parentId="189">Aquila</category>
+      <category id="2691" parentId="217">Puff</category>
+      <category id="2707" parentId="222">Luccila</category>
+      <category id="2906" parentId="267">Erika</category>
+      <category id="2665" parentId="200">Harmony</category>
+      <category id="2735" parentId="229">Freddy</category>
+      <category id="2692" parentId="187">Geo</category>
+      <category id="2739" parentId="187">New Geelong</category>
+      <category id="2727" parentId="233">Treg</category>
+      <category id="2812" parentId="187">Today</category>
+      <category id="2816" parentId="261">Angora Jarre</category>
+      <category id="2662" parentId="209">Topwool</category>
+      <category id="2814" parentId="188">Forever</category>
+      <category id="2736" parentId="188">Hitwool</category>
+      <category id="2698" parentId="201">Deluxe Bamboo</category>
+      <category id="2775" parentId="249">Arizona</category>
+      <category id="2740" parentId="238">Angora 70 Rabbit</category>
+      <category id="2652" parentId="198">Cottonwood</category>
+      <category id="2904" parentId="214">Bondage</category>
+      <category id="2784" parentId="254">Camel Wool</category>
+      <category id="2871" parentId="187">Ulky Teflon</category>
+      <category id="2669" parentId="187">Tehnocashmire 2/48</category>
+      <category id="2695" parentId="208">Organic Baby Cotton</category>
+      <category id="2725" parentId="229">Soffice</category>
+      <category id="2788" parentId="241">Soffio</category>
+      <category id="2866" parentId="254">Italia Sensitive</category>
+      <category id="2824" parentId="196">Joel</category>
+      <category id="2819" parentId="256">Braga</category>
+      <category id="2939" parentId="213">Dallas</category>
+      <category id="2747" parentId="241">Astrakan</category>
+      <category id="2823" parentId="263">Prestige</category>
+      <category id="2708" parentId="210">Brilo</category>
+      <category id="2901" parentId="258">Class</category>
+      <category id="2956" parentId="283">Raffia</category>
+      <category id="2791" parentId="245">Superflex</category>
+      <category id="2782" parentId="254">Rodeo</category>
+      <category id="2859" parentId="227">Black Jack</category>
+      <category id="2704" parentId="220">Supergeelong</category>
+      <category id="2888" parentId="262">HKA 9663</category>
+      <category id="2829" parentId="187">Ginepro</category>
+      <category id="2857" parentId="245">Cablelight</category>
+      <category id="2877" parentId="187">Baba Light</category>
+      <category id="2737" parentId="217">Klite+Cotone</category>
+      <category id="2920" parentId="245">Royal</category>
+      <category id="2711" parentId="224">Toreador</category>
+      <category id="2783" parentId="245">Cashseta</category>
+      <category id="2957" parentId="284">Buseta</category>
+      <category id="2915" parentId="190">Vanity</category>
+      <category id="2918" parentId="245">Real Chic</category>
+      <category id="2756" parentId="229">Barrique</category>
+      <category id="2673" parentId="214">Topkid</category>
+      <category id="2825" parentId="210">Quebec</category>
+      <category id="2703" parentId="198">Papyrus</category>
+      <category id="2705" parentId="197">Centolavaggi</category>
+      <category id="2697" parentId="198">Good Earth</category>
+      <category id="2941" parentId="220">Ontario</category>
+      <category id="2683" parentId="216">Angora 80</category>
+      <category id="2763" parentId="236">Yak 90</category>
+      <category id="2914" parentId="190">Trapper</category>
+      <category id="2664" parentId="187">Esk 2/175</category>
+      <category id="2913" parentId="216">Hair</category>
+      <category id="2724" parentId="208">Exclusive</category>
+      <category id="2929" parentId="220">Angora Tweed</category>
+      <category id="2884" parentId="263">Matis</category>
+      <category id="2818" parentId="227">Two</category>
+      <category id="2938" parentId="254">Baby Camel</category>
+      <category id="2799" parentId="256">Stretch</category>
+      <category id="2660" parentId="187">Cashwool</category>
+      <category id="2944" parentId="196">Сhanna</category>
+      <category id="2917" parentId="190">Ginko Loro</category>
+      <category id="2942" parentId="262">HKA 1202</category>
+      <category id="2690" parentId="196">Camelot</category>
+      <category id="2790" parentId="245">Super Cashmere</category>
+      <category id="2821" parentId="262">HKA 2547</category>
+      <category id="2912" parentId="210">Dulcos</category>
+      <category id="2894" parentId="214">Nordic</category>
+      <category id="2679" parentId="216">Angora 70</category>
+      <category id="2930" parentId="254">Eco Cashmere</category>
+      <category id="2722" parentId="210">Lumiere</category>
+      <category id="2832" parentId="227">Bellone</category>
+      <category id="2744" parentId="239">Catena Merino Fine</category>
+      <category id="2945" parentId="263">Ginger</category>
+      <category id="2699" parentId="199">Сotonax</category>
+      <category id="2834" parentId="264">Oxford</category>
+      <category id="2785" parentId="227">Fremito</category>
+      <category id="2841" parentId="187">Alpafur</category>
+      <category id="2746" parentId="239">Cotton Yak</category>
+      <category id="2661" parentId="188">Harmony</category>
+      <category id="2738" parentId="237">Virginia</category>
+      <category id="2833" parentId="245">Beach</category>
+      <category id="2804" parentId="257">Bucle</category>
+      <category id="2911" parentId="190">Mall Old Dyed</category>
+      <category id="2757" parentId="229">Frog</category>
+      <category id="2881" parentId="202">Peru Color</category>
+      <category id="2655" parentId="208">Baby Alpaca</category>
+      <category id="2696" parentId="202">Fiore</category>
+      <category id="2786" parentId="254">Bergen Yak</category>
+      <category id="2777" parentId="227">Andreas</category>
+      <category id="2800" parentId="230">Dorotex</category>
+      <category id="2714" parentId="226">Alpaca/mohair/pailletts</category>
+      <category id="2743" parentId="239">Alpaca Silver</category>
+      <category id="2864" parentId="254">Eldorado</category>
+      <category id="2758" parentId="229">Magreb</category>
+      <category id="2675" parentId="189">Astro</category>
+      <category id="2869" parentId="256">Lima</category>
+      <category id="2798" parentId="256">Cardiff Mohair</category>
+      <category id="2701" parentId="199">Gentle</category>
+      <category id="2889" parentId="187">Kid Pel</category>
+      <category id="2836" parentId="236">Stripy Jacquard</category>
+      <category id="2751" parentId="245">Top Cashmere</category>
+      <category id="2787" parentId="229">Scubidu</category>
+      <category id="2843" parentId="245">Silversilk</category>
+      <category id="2801" parentId="227">Filati Relax</category>
+      <category id="2951" parentId="187">Mousse</category>
+      <category id="2879" parentId="208">Jeans</category>
+      <category id="2895" parentId="208">Baby Cotton</category>
+      <category id="2792" parentId="229">Gamma Mouline</category>
+      <category id="2893" parentId="200">Flowers Moonlight</category>
+      <category id="2870" parentId="256">Nuanceloop</category>
+      <category id="2674" parentId="215">Brillo</category>
+      <category id="2810" parentId="259">Saxon</category>
+      <category id="2897" parentId="199">Breeze Color</category>
+      <category id="2712" parentId="226">Merino/paillets</category>
+      <category id="2826" parentId="254">Silk Baby</category>
+      <category id="2721" parentId="229">Tiffany</category>
+      <category id="2874" parentId="216">Minnie</category>
+      <category id="2807" parentId="241">Cashmere B</category>
+      <category id="2883" parentId="263">Klimt</category>
+      <category id="2940" parentId="196">Harmon</category>
+      <category id="2840" parentId="259">Kefir</category>
+      <category id="2710" parentId="189">Merino 2/30</category>
+      <category id="2745" parentId="239">Cotton Cashmere</category>
+      <category id="2922" parentId="217">Kiddissimo</category>
+      <category id="2934" parentId="281">Pure Love</category>
+      <category id="2868" parentId="214">Granito-1</category>
+      <category id="2875" parentId="220">Labrador</category>
+      <category id="2672" parentId="210">Blanche</category>
+      <category id="2719" parentId="229">Cereale</category>
+      <category id="2796" parentId="249">Focus</category>
+      <category id="2684" parentId="209">Pailetes</category>
+      <category id="2716" parentId="216">Nuvola</category>
+      <category id="2759" parentId="246">Наборы Lykke</category>
+      <category id="2654" parentId="208">Rock N Roll</category>
+      <category id="2844" parentId="267">Ortenzia</category>
+      <category id="2715" parentId="229">Mabot</category>
+      <category id="2837" parentId="265">Extrageelong</category>
+      <category id="2853" parentId="236">Elba</category>
+      <category id="2649" parentId="198">Sensational</category>
+      <category id="2752" parentId="229">Regent Lux</category>
+      <category id="2936" parentId="245">Denver</category>
+      <category id="2663" parentId="210">Wenge</category>
+      <category id="2923" parentId="214">Snob Unito</category>
+      <category id="2713" parentId="226">Merino/mohair/paillet</category>
+      <category id="2802" parentId="257">Cashmere Seta Tweed</category>
+      <category id="2728" parentId="208">Silk&amp;Cashmere</category>
+      <category id="2760" parentId="246">Леска Lykke</category>
+      <category id="2803" parentId="229">Fokker</category>
+      <category id="2685" parentId="189">Bellabimba</category>
+      <category id="2827" parentId="220">Nanchino</category>
+      <category id="2656" parentId="189">Clara</category>
+      <category id="2793" parentId="229">Flow Silver</category>
+      <category id="2822" parentId="241">Phantom-Arg</category>
+      <category id="2924" parentId="212">Crystal</category>
+      <category id="2670" parentId="213">Merino</category>
+      <category id="2835" parentId="236">Vogue</category>
+      <category id="2867" parentId="187">Mentha</category>
+      <category id="2854" parentId="236">Ampezzo</category>
+      <category id="2828" parentId="254">Giada</category>
+      <category id="2861" parentId="229">Frida</category>
+      <category id="2666" parentId="212">Cindy 2/48</category>
+      <category id="2742" parentId="239">Aire</category>
+      <category id="2769" parentId="216">Lovealot</category>
+      <category id="2770" parentId="249">Babywool</category>
+      <category id="2688" parentId="187">Angora Malfile</category>
+      <category id="2892" parentId="200">Flowers</category>
+      <category id="2717" parentId="230">Dolomiti</category>
+      <category id="2753" parentId="188">Cordonetto</category>
+      <category id="2709" parentId="227">Granito</category>
+      <category id="2754" parentId="229">Cashmere Seta</category>
+      <category id="2761" parentId="246">Спицы Разъемные Lykke</category>
+      <category id="2806" parentId="187">Kyoto</category>
+      <category id="2667" parentId="187">Kent 2/18</category>
+      <category id="2943" parentId="258">Sari</category>
+      <category id="2846" parentId="216">Greta2confort</category>
+      <category id="2678" parentId="198">Bamboo Bloom Handpaints</category>
+      <category id="2882" parentId="259">Winnie S</category>
+      <category id="2650" parentId="198">Dona</category>
+      <category id="2671" parentId="210">Rouge</category>
+      <category id="2947" parentId="249">Play</category>
+      <category id="2872" parentId="220">Savile</category>
+      <category id="2830" parentId="196">Bubble Unito</category>
+      <category id="2931" parentId="190">Micromelange</category>
+      <category id="2919" parentId="245">Best Wish</category>
+      <category id="2808" parentId="258">Corda</category>
+      <category id="2723" parentId="229">Lustroso</category>
+      <category id="2926" parentId="241">Nirvana</category>
+      <category id="2928" parentId="214">Slobby</category>
+      <category id="2954" parentId="187">Spot</category>
+      <category id="2755" parentId="229">Basic</category>
+      <category id="2762" parentId="236">CashTweed</category>
+      <category id="2937" parentId="245">Baby Cashmere</category>
+      <category id="2885" parentId="249">Maldive</category>
+      <category id="2706" parentId="221">Calenzano</category>
+      <category id="2921" parentId="254">Martora</category>
+      <category id="2795" parentId="229">Ultra</category>
+      <category id="2831" parentId="237">Penny Lane</category>
+      <category id="2948" parentId="265">Tibet</category>
+      <category id="2731" parentId="227">Loren</category>
+      <category id="2809" parentId="216">Zenu</category>
+      <category id="2686" parentId="187">Baby Air</category>
+      <category id="2668" parentId="188">Woollight 2/28</category>
+      <category id="2718" parentId="231">Mongoli</category>
+      <category id="2768" parentId="216">Cashfive</category>
+      <category id="2687" parentId="218">Satin</category>
+      <category id="2839" parentId="266">Kashmerinos</category>
+      <category id="2949" parentId="216">Trich Eco</category>
+      <category id="2950" parentId="245">Pima Dry</category>
+      <category id="2720" parentId="229">Victoria</category>
+      <category id="2932" parentId="214">Mongolia</category>
+      <category id="2952" parentId="187">Maxi Mouline</category>
+      <category id="2903" parentId="258">Imagine</category>
+      <category id="2797" parentId="243">Allium</category>
+      <category id="2651" parentId="198">Inca</category>
+      <category id="2838" parentId="216">Lauretta</category>
+      <category id="2764" parentId="217">Alabai</category>
+      <category id="2657" parentId="187">Estro</category>
+      <category id="2909" parentId="241">Fleece</category>
+      <category id="2767" parentId="227">Paella</category>
+      <category id="2776" parentId="252">Suri Yak</category>
+      <category id="2887" parentId="212">Sogno</category>
+      <category id="2886" parentId="209">Margherita</category>
+      <category id="2653" parentId="197">Baby Kid Extra</category>
+      <category id="2878" parentId="220">Perla</category>
+      <category id="2680" parentId="217">Klima</category>
+      <category id="2851" parentId="236">Yak 80</category>
+      <category id="2682" parentId="188">Free</category>
+      <category id="2700" parentId="189">Neutro</category>
+      <category id="2935" parentId="267">Bubble</category>
+      <category id="2848" parentId="268">Borgisesia</category>
+      <category id="2794" parentId="229">Degas</category>
+      <category id="2771" parentId="236">Venezia</category>
+      <category id="2873" parentId="190">Sharm</category>
+    </categories>
+    <offers>
+      </offers>
+  </shop>
+</yml_catalog>
